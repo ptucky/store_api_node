@@ -1,3 +1,3 @@
-# shopping_api_node
+# store_api_node
 
-shoppping api backend
+store api backend
